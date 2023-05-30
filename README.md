@@ -1,0 +1,2 @@
+# myai
+ChatGPT console tool
